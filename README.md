@@ -19,7 +19,6 @@ FieldSense is a smart irrigation and farm monitoring dashboard focused on real-t
 - [Production Readiness Checklist](#production-readiness-checklist)
 - [Roadmap](#roadmap)
 - [Troubleshooting](#troubleshooting)
-- [License](#license)
 
 ---
 
@@ -285,6 +284,3 @@ flowchart TD
 
 ---
 
-## License
-
-No license file is currently included. Add a `LICENSE` file before public distribution or commercial deployment.
