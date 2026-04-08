@@ -46,7 +46,7 @@ export function AppSidebar() {
           </div>
           {!collapsed && (
             <div>
-              <h1 className="text-sm font-bold text-sidebar-foreground">AgroSmart</h1>
+              <h1 className="text-sm font-bold text-sidebar-foreground">FieldSense</h1>
               <p className="text-xs text-sidebar-foreground/60">Irrigation System</p>
             </div>
           )}
